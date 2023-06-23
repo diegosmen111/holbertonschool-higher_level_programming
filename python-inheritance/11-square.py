@@ -1,5 +1,9 @@
 #!/usr/bin/python3
+# -*- coding: utf-8 -*-
+
+
 BaseGeometry = __import__('7-base_geometry').BaseGeometry
+
 
 class Square(BaseGeometry):
     """
